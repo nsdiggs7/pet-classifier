@@ -18,7 +18,7 @@ uvicorn main:app --reload
 Open a different terminal and enter these commands
 
 ```bash
-cd pet-classifier/fronted
+cd pet-classifier/frontend
 npm install
 npm run dev
 ```
